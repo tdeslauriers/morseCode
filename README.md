@@ -1,7 +1,7 @@
 Below is the challenge that inspired my encoder/decoder.  
 It didnt really follow it.   I wanted to make something that I could actually use like my base64 encoder/decoder.
 
-To the point about ambiguity: if you insert a delimiter between letters (in my case a space) you get correct/ consistent encoding.
+To the point about ambiguity: if you insert a delimiter between letters (in my case a space) you get correct/ consistent decoding.
 
 ______
 
