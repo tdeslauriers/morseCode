@@ -1,7 +1,9 @@
 Below is the challenge that inspired my encoder/decoder.  
 It didnt really follow it.   I wanted to make something that I could actually use like my base64 encoder/decoder.
 
-To the point about abmiguity: if you insert a delimiter between letter (in my case a space) you get correct/ consistent encoding.
+To the point about ambiguity: if you insert a delimiter between letters (in my case a space) you get correct/ consistent encoding.
+
+______
 
 [2019-08-05] Challenge #380 [Easy] Smooshed Morse Code 1
 For the purpose of this challenge, Morse code represents every letter as a sequence of 1-4 characters, each of which is either . (dot) or - (dash). The code for the letter a is .-, for b is -..., etc. The codes for each letter a through z are:
